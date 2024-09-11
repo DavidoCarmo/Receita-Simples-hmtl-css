@@ -1,0 +1,100 @@
+#foto {
+    background-color: #f9f9f9;
+    width: 800px;
+    height: 400px;
+    padding: 20px;
+    margin: 10px 0;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(241, 241, 241);
+}
+
+#frase {
+
+    font-family: 'Arial', sans-serif;
+    font-size: 40px;
+    color: #080808;
+    /* Verde para dar um toque de frescor */
+    background-color: #f9f9f9;
+    /* Fundo claro para destacar o texto */
+    padding: 10px;
+    border: 2px solid #ddd;
+    /* Borda sutil */
+    border-radius: 5px;
+    /* Cantos arredondados */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    /* Sombra leve */
+    text-align: center;
+    /* Centraliza o texto */
+
+    /* Espaçamento ao redor */
+    width: fit-content;
+}
+
+.duasem1 {
+display: flex;
+    font-family: 'Arial', sans-serif;
+    font-size: 30px;
+    color: #080808;
+    /* Verde para dar um toque de frescor */
+    background-color: #f9f9f9;
+    /* Fundo claro para destacar o texto */
+    padding: 10px;
+    border: 2px solid #ddd;
+    /* Borda sutil */
+    border-radius: 5px;
+    /* Cantos arredondados */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    /* Sombra leve */
+    text-align: center;
+    /* Centraliza o texto */
+
+    /* Espaçamento ao redor */
+    width: fit-content;
+}
+
+#div1 {
+    background-color: #f9f9f9;
+    font-size: 25px;
+    display: flex;
+    padding: 5px;
+    padding-left: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    height: 95%;
+    border: 3px solid #ddd;
+    /* Borda sutil */
+    border-radius: 5px;
+    /* Cantos arredondados */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#div2 {
+    background-color: #f9f9f9;
+    font-size: 25px;
+    display: flex;
+    padding: 5px;
+    padding-left: 10px;
+    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.1);
+    width: 80%;
+    height: 90%;
+    border: 3px solid #ddd;
+    /* Borda sutil */
+    border-radius: 5px;
+    /* Cantos arredondados */
+    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.1);
+
+}
+
+#tudo{
+    
+    place-items: center;
+    display: grid;
+    background-color: #ddb9b9;
+    border: 10px solid #fcfcfc;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    padding-left: 10px;
+    
+}
